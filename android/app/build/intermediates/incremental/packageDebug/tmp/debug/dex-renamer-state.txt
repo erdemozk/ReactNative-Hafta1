@@ -1,0 +1,4 @@
+#Sun Jun 21 16:26:34 EET 2020
+base.0=/Users/erdemozk/Desktop/React Native/Ders-1/hellorn/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

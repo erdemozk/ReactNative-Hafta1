@@ -1,0 +1,6 @@
+module Pods_hellorn_hellornTests {
+  umbrella header "Pods-hellorn-hellornTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
